@@ -12,4 +12,8 @@ loadstring(game:HttpGet("local Settings = {
   Translator = true; -- true/false
 }
 
-loadstring(game:HttpGet(""))(Settings)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nfcbadal-cyber/nfc-script/refs/heads/main/Nfc_Script%20%3A%20Bloxfruit.lua"))(Settings) 
+
+# Bloxfruit 
+    
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nfcbadal-cyber/nfc-script/refs/heads/main/Nfc_Script%20%3A%20Bloxfruit.lua"))
